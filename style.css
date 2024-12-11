@@ -1,3 +1,12 @@
+head
+{
+    background-color: #FFD0FC;
+    color: #F686BD;
+    border: 4mm ridge #FE5D9F;
+    font-weight:700;
+    font-family:"Trattatello", fantasy;
+    font-size: larger;
+}
 body 
 {
     background-color: #FFD0FC;
