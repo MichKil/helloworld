@@ -1,5 +1,6 @@
 body 
 {
     background-color: #FFD0FC;
-    color: #F686BD
+    color: #F686BD;
+    border: 4mm ridge #FE5D9F;
 }
