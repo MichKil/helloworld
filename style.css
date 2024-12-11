@@ -6,10 +6,12 @@ head
     font-weight:700;
     font-family:"Trattatello", fantasy;
     font-size: larger;
+    text-align:center;
 }
 body 
 {
     background-color: #FFD0FC;
     color: #F686BD;
     border: 4mm ridge #FE5D9F;
+    text-align: left;
 }
